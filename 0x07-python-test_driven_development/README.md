@@ -866,6 +866,4 @@ guillaume@ubuntu:~/0x07$
 
 -   GitHub repository: `alx-higher_level_programming`
 
--   Directory: `0x07-python-test_driven_development`
-
--   File: `tests/6-max_integer_test.py`
+-   Directory   File: `tests/6-max_integer_test.py`
